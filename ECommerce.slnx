@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Services/" />
+  <Folder Name="/Services/Catalog/">
+    <Project Path="Services/Catalog/Catalog.API/Catalog.API.csproj" Id="62442233-76aa-419c-bef7-d6e562f76372" />
+    <Project Path="Services/Catalog/Catalog.Application/Catalog.Application.csproj" Id="3fe97cea-8d85-4fed-8975-eae8919616cd" />
+    <Project Path="Services/Catalog/Catalog.Core/Catalog.Core.csproj" Id="5361866c-08b0-4dda-b427-683424c5dc32" />
+    <Project Path="Services/Catalog/Catalog.Infrastructure/Catalog.Infrastructure.csproj" />
+  </Folder>
+</Solution>
